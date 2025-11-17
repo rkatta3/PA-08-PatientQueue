@@ -1,6 +1,6 @@
 /*
  * Author: Rithvik Katta
- * Course: CSC 210 - Summer 2025
+ * Course: CSC 210
  * File: PatientQueue.java
  * Purpose: Implements a patient priority queue using a binary min-heap.
  * Stores Patient objects with priorities where smaller values indicate
@@ -222,3 +222,4 @@ public class PatientQueue {
         return sb.toString();
     }
 }
+
